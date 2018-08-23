@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TesteTCC</string>
+    <string name="title_activity_act_inicio">Act_inicio</string>
+    <string name="title_activity_act_mais">Act_mais</string>
+    <string name="title_activity_act_rendas">Act_rendas</string>
+    <string name="title_activity_act_despesas">Act_despesas</string>
+    <string name="title_activity_act__orcamento">Act_Orcamento</string>
+    <string name="title_activity_act_relatorio">Act_relatorio</string>
+    <string name="title_activity_act_add_rendas">Act_add_rendas</string>
+    <string name="title_activity_act_add_despesas">Act_add_despesas</string>
+</resources>
